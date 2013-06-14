@@ -2,7 +2,7 @@ memcached
 
 An interface to the libmemcached C client.
 
-[![Build Status](https://travis-ci.org/joe1chen/memcached.png?branch=integration)](http://travis-ci.org/joe1chen/memcached)
+{<img src="https://travis-ci.org/joe1chen/memcached.png?branch=integration" alt="Build Status" />}[https://travis-ci.org/joe1chen/memcached]
 
 == License
 
